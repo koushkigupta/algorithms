@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 using namespace std;
   void insertionSort(int arr[], int n)
@@ -18,7 +17,6 @@ using namespace std;
         arr[j + 1] = key;
     }
 }
-
 
 void printArray(int arr[], int n)
 {
